@@ -1,1 +1,1 @@
-# debian-amd64-dev
+# amd64-dev
